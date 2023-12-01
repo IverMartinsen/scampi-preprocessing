@@ -1,1 +1,3 @@
 __deprecated__
+.DS_Store
+__pycache__/
